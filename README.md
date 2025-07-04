@@ -9,7 +9,6 @@
 
 I'm a passionate **Full Stack Web Developer** with hands-on experience in building robust, scalable, and secure applications across LAMP, MERN stacks, and cross-platform mobile development. My work spans from building RESTful APIs in Laravel, to real-time applications using WebSockets, and cloud-native solutions with Docker and AWS. I'm also exploring **AI/LLMs**, automation with **n8n**, and developing systems that bridge communication between **schools, students, parents, and teachers**.
 
-
 ![Github Profile](https://komarev.com/ghpvc/?username=madhan-kumar05&layout=compact&theme=radical)
 ![Github Profile Trophy](https://github-profile-trophy.vercel.app/?username=madhan-kumar05&layout=compact&theme=radical)
 
