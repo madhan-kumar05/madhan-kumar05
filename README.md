@@ -112,7 +112,7 @@ I'm a passionate **Full Stack Web Developer** with hands-on experience in buildi
 - 🤖 Deploying private **LLMs** for question answering based on books  
 - ⚡ Setup of scalable **WebSocket-RabbitMQ** architecture with PHP & Node  
 - 🤝 Freelancing & collaborating with international clients  
-- 📚 Actively learning Java, Spring Boot, DSA & System Design for interviews
+- 📚 Actively learning New technologies
 
 ---
 
